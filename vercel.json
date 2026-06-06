@@ -5,6 +5,7 @@
   ],
   "functions": {
     "api/index.py": {
+      "runtime": "@vercel/python",
       "maxDuration": 30
     }
   }
